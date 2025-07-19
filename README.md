@@ -10,3 +10,7 @@ This Streamlit app lets users upload Netflix datasets and visualizes clustered s
 - Interactive UI via Streamlit
 
 ## 🚀 Run locally
+
+## 🧪 Try the Live Demo
+
+👉 [Click here to open the live app](https://netflix-clustering-project-by-adnaan.streamlit.app/)
